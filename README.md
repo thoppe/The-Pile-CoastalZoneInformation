@@ -13,7 +13,7 @@ Each publication was downloaded from govinfo. Text was extracted from the PDF wa
      ℹ Uncompressed filesize 841,199,958
      ℹ Compressed filesize   263,059,778
 
-Data souce temporary hosted at
+Data souce temporary hosted at https://drive.google.com/file/d/1qjZZTqS-m63TMKBYB1eNRc5Bh4W--SYQ/view?usp=sharing
 
      > sha256sum GOVINFO_CZIC_KL.jsonl.zst 
      c7a46f5af12789fc8b2105b208e22fa400c63ac720c72073e90ee91af6744f00  GOVINFO_CZIC_KL.jsonl.zst
